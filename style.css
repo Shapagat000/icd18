@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+    background-color: rgb(247, 222, 201);
+}
+.container{
+    background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-orange-white-minimalist-background-picture-image_1335898.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+    border-radius: 7px;
+}
+.pic{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    margin-left: 25px;
+}
+h2{
+    margin-left: 25px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    margin-top: -55px;
+    margin-right: 70px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+    margin-right: 75px; 
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin-left: 230px;
+    margin-top: -50px;
+    width: 100px;
+    height: 25px;
+}
+.view{
+    color: black;
+    margin-left: 300px;
+
+
+}
